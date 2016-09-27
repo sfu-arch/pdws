@@ -63,8 +63,8 @@ info
 
 ## References
 [1] SPEC-AX and PARSEC-AX: Extracting Accelerator Benchmarks from Microprocessor Benchmarks  
-Snehasish Kumar, William N. Sumner, Arrvindh Shriraman (Simon Fraser University) 
-[2] http://llvm.org/releases/download.html 
-[3] Ball, Thomas, and James R. Larus. "Efficient path profiling." Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture. IEEE Computer Society, 1996.
+Snehasish Kumar, William N. Sumner, Arrvindh Shriraman (Simon Fraser University)    
+[2] http://llvm.org/releases/download.html    
+[3] Ball, Thomas, and James R. Larus. "Efficient path profiling." Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture. IEEE Computer Society, 1996.     
 
 

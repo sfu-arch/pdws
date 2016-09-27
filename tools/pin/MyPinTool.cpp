@@ -1,3 +1,4 @@
+#include "control_manager.H"
 #include "pin.H"
 #include "portability.H"
 #include <assert.h>
@@ -7,14 +8,14 @@
 #include <fstream>
 #include <iomanip>
 #include <iostream>
-#include <map>
-#include <set>
+#include <list>
+#include <queue>
+#include <sstream>
 #include <stdio.h>
 #include <sys/stat.h>
 #include <unistd.h>
 
 using namespace std;
-using namespace CONTROLLER;
 
 #define SUCCESS_THRESHOLD 10000
 /* ===================================================================== */
