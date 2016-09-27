@@ -1,24 +1,16 @@
 #include <iostream>
-#include <map>
-#include <set>
 #include <assert.h>
 #include <fstream>
 #include <stdio.h>
-#include <sstream>
 #include <cmath>
-#include <queue>
-#include <list>
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/stat.h>
-#include <cinttypes>
 #include "pin.H"
-#include "control_manager.H"
 #include "portability.H"
 #include <iomanip>
 
 using namespace std;
-using namespace CONTROLLER;
 
 #define SUCCESS_THRESHOLD 10000
 /* ===================================================================== */
